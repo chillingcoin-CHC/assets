@@ -1,0 +1,13 @@
+{
+  "name": "Chilling Coin",
+  "symbol": "CHC",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc50e66bca472da61d0184121e491609b774e2c37",
+  "website": "https://chillingcoin.carrd.co",
+  "description": "Chilling Coin (CHC) is a meme-powered BEP-20 token on BNB Smart Chain with 0% tax, fully renounced ownership, and locked liquidity. CHC aims to bring chill vibes and serious utility through community-driven development, NFTs, and future DeFi tools. With no central control and a growing global community, CHC is built for those who meme, chill, and believe in decentralized fun.",
+  "explorer": "https://bscscan.com/token/0xc50e66bca472da61d0184121e491609b774e2c37",
+  "telegram": "https://t.me/chillingcoinbsc",
+  "twitter": "https://x.com/chillingchc"
+}
